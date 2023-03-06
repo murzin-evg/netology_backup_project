@@ -1,0 +1,13 @@
+2023-03-06 13:25:48,830 INFO VK token received.
+2023-03-06 13:25:49,020 INFO Parameter owner_id received.
+2023-03-06 13:25:49,222 INFO Photo list compiled.
+2023-03-06 13:25:49,223 INFO Yandex token received.
+2023-03-06 13:25:50,213 INFO The folder netology_backup created.
+2023-03-06 13:25:50,213 INFO The folder netology_backup exists.
+2023-03-06 13:25:51,094 INFO The folder netology_backup/79729067 created.
+2023-03-06 13:25:51,700 INFO Added information about photo 54.jpg to JSON file.
+2023-03-06 13:25:53,939 INFO Photo 54.jpg uploaded to YandexDisk.
+2023-03-06 13:25:54,266 INFO Added information about photo 207.jpg to JSON file.
+2023-03-06 13:25:55,571 INFO Photo 207.jpg uploaded to YandexDisk.
+2023-03-06 13:25:58,298 INFO JSON file netology_backup/79729067/79729067.json.txt loaded to YandexDisk.
+2023-03-06 13:25:58,298 INFO Backup is performed in YandexDisk.
